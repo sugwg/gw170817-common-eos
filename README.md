@@ -49,7 +49,7 @@ The notebook server can be started inside the container with the command:
 ```sh
 jupyter notebook --ip 0.0.0.0 --no-browser
 ```
-You can then connect to the notebook server at the URL printed by ``jupyter``. Navigate to the directory `gw170817-common-eos` in the cloned git repository and open [data_release_companion.ipynb](https://github.com/sugwg/gw170817-common-eos/blob/master/data_release_common_eos_companion.ipynb) (this notebook).
+You can then connect to the notebook server at the URL printed by ``jupyter``. Navigate to the directory `gw170817-common-eos` in the cloned git repository and open [data_release_common_eos_companion.ipynb](https://github.com/sugwg/gw170817-common-eos/blob/master/data_release_common_eos_companion.ipynb) (this notebook).
 
 ## Acknowledgements
 
