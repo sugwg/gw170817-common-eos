@@ -29,8 +29,8 @@ The data provided contain the thinned posterior samples from the MCMC chains use
 
  1. [dns_mass_prior_common_eos_posteriors.hdf](https://github.com/sugwg/gw170817-common-eos/blob/master/dns_mass_prior_common_eos_posteriors.hdf)  contains the posterior samples from the MCMC where we use the common EOS constraint and the double neutron star mass prior.
  2. [galactic_ns_mass_prior_common_eos_posteriors.hdf](https://github.com/sugwg/gw170817-common-eos/blob/master/galactic_ns_mass_prior_common_eos_posteriors.hdf) containes the posterior samples from the MCMC where we use the common EOS constraint and the Galactic neutron star mass prior.
- 3. [uniform_mass_prior_common_eos_posteriors.hdf](https://github.com/sugwg/common-eos/blob/master/uniform_mass_prior_common_eos_posteriors.hdf) contains the posterior samples from the MCMC where we use the common EOS constraint and the uniform [1.0, 2.0] M$_\odot$.
- 4. [independent_lambda_uniform_mass_posterior.hdf](https://github.com/sugwg/common-eos/blob/master/independent_lambda_uniform_mass_posterior.hdf) contains the posterior samples from the MCMC where we do not apply the common EOS constraint allowing the tidal deformability parameters of the component stars to vary independently, and use a uniform [1.0, 2.0] M$_\odot$ mass prior.
+ 3. [uniform_mass_prior_common_eos_posteriors.hdf](https://github.com/sugwg/common-eos/blob/master/uniform_mass_prior_common_eos_posteriors.hdf) contains the posterior samples from the MCMC where we use the common EOS constraint and the uniform [1.0, 2.0] M_sun.
+ 4. [independent_lambda_uniform_mass_posterior.hdf](https://github.com/sugwg/common-eos/blob/master/independent_lambda_uniform_mass_posterior.hdf) contains the posterior samples from the MCMC where we do not apply the common EOS constraint allowing the tidal deformability parameters of the component stars to vary independently, and use a uniform [1.0, 2.0] M_sun mass prior.
 
 The results used in the paper were generated with the [PyCBC v1.9.4 release.](https://github.com/gwastro/pycbc/releases/tag/v1.9.4)
 
