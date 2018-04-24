@@ -18,7 +18,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unite
 
 ## Introduction
 
-This notebook is a companion to the paper posted at [arxiv:1804.08583](https://arxiv.org/abs/1804.08583). It demonstrates how to read and use our posterior probability density files from the MCMC and shows how to reconstruct gigures 2 and 3 in the main text and figures 2 and 4 in the supplementary material from the raw data.
+This notebook is a companion to the paper posted at [arxiv:1804.08583](https://arxiv.org/abs/1804.08583). It demonstrates how to read and use our posterior probability density files from the MCMC and shows how to reconstruct figures 2 and 3 in the main text and figures 2 and 4 in the supplementary material from the raw data.
 
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 ```
@@ -34,7 +34,7 @@ We encourage use of these data in derivative works. If you use the material prov
 }
 ```
 
-The data provided contain the thinned posterior samples from the MCMC chains used to produce the posterior probability density plots shown in Figure 5. These data are stored in the files:
+The data provided contain the thinned posterior samples from the MCMC chains used to produce the posterior probability density plots and the Bayes factors. These data are stored in the files:
 
  1. [dns_mass_prior_common_eos_posteriors.hdf](https://github.com/sugwg/gw170817-common-eos/blob/master/dns_mass_prior_common_eos_posteriors.hdf)  contains the posterior samples from the MCMC where we use the common EOS constraint and the double neutron star mass prior.
  2. [galactic_ns_mass_prior_common_eos_posteriors.hdf](https://github.com/sugwg/gw170817-common-eos/blob/master/galactic_ns_mass_prior_common_eos_posteriors.hdf) containes the posterior samples from the MCMC where we use the common EOS constraint and the Galactic neutron star mass prior.
