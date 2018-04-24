@@ -22,10 +22,12 @@ This notebook is a companion to the paper posted at [arxiv:1804.08583](https://a
 
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 ```
-@article{De:2018,
-      author         = "De, Soumi and Finstad, Daniel and Brown, Duncan A. and
-                        Berger, Edo and Biwer, Christopher M.",
-      title          = "{Constraining the nuclear equation of state with GW170817}",
+@article{De:2018uhw,
+      author         = "De, Soumi and Finstad, Daniel and Lattimer, James M. and
+                        Brown, Duncan A. and Berger, Edo and Biwer, Christopher
+                        M.",
+      title          = "{Constraining the nuclear equation of state with
+                        GW170817}",
       year           = "2018",
       eprint         = "1804.08583",
       archivePrefix  = "arXiv",
