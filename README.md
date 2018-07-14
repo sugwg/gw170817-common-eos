@@ -1,14 +1,14 @@
 # Constraining the nuclear equation of state with GW170817
 
-**Soumi De<sup>1</sup>, Daniel Finstad<sup>1</sup>, James M. Lattimer<sup>1</sup>, Duncan A. Brown<sup>1</sup>, Edo Berger<sup>2</sup>, Christopher M. Biwer<sup>1,3</sup>**
+**Soumi De<sup>1</sup>, Daniel Finstad<sup>1</sup>, James M. Lattimer<sup>2</sup>, Duncan A. Brown<sup>1</sup>, Edo Berger<sup>3</sup>, Christopher M. Biwer<sup>1,4</sup>**
 
 **<sup>1</sup>Department of Physics, Syracuse University, Syracuse, NY 13244, USA**
 
-**<sup>1</sup>Department of Physics and Astronomy, Stony Brook University, Stony Brook, NY 11794-3800, USA**
+**<sup>2</sup>Department of Physics and Astronomy, Stony Brook University, Stony Brook, NY 11794-3800, USA**
 
-**<sup>2</sup>Harvard-Smithsonian Center for Astrophysics, Cambridge, Massachusetts 02139, USA**
+**<sup>3</sup>Harvard-Smithsonian Center for Astrophysics, Cambridge, Massachusetts 02139, USA**
 
-**<sup>3</sup>Applied Computer Science (CCS-7), Los Alamos National Laboratory, Los Alamos, NM, 87545, USA**
+**<sup>4</sup>Applied Computer Science (CCS-7), Los Alamos National Laboratory, Los Alamos, NM, 87545, USA**
 
 ## License
 
