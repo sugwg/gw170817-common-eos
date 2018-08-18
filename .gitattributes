@@ -5,3 +5,11 @@ galactic_ns_mass_prior_independent_lambdas_posteriors_long_chain.hdf filter=lfs 
 uniform_mass_prior_common_eos_posteriors_long_chain.hdf filter=lfs diff=lfs merge=lfs -text
 uniform_mass_prior_independent_lambdas_posteriors_long_chain.hdf filter=lfs diff=lfs merge=lfs -text
 uniform_mass_prior_lambda_s_lessthan100_posteriors_long_chain.hdf filter=lfs diff=lfs merge=lfs -text
+galactic_ns_mass_prior_independent_lambdas_20hz_lowfreq_posteriors_long_chain.hdf filter=lfs diff=lfs merge=lfs -text
+dns_mass_prior_independent_lambdas_20hz_lowfreq_posteriors_long_chain.hdf filter=lfs diff=lfs merge=lfs -text
+dns_mass_prior_common_eos_20hz_lowfreq_posteriors_long_chain.hdf filter=lfs diff=lfs merge=lfs -text
+uniform_mass_prior_lambda_s_lessthan100_20hz_lowfreq_posteriors_long_chain.hdf filter=lfs diff=lfs merge=lfs -text
+independent_lambda_uniform_mass_30hz_lowfreq_posterior.hdf filter=lfs diff=lfs merge=lfs -text
+uniform_mass_prior_independent_lambdas_20hz_lowfreq_posteriors_long_chain.hdf filter=lfs diff=lfs merge=lfs -text
+uniform_mass_prior_common_eos_20hz_lowfreq_posteriors_long_chain.hdf filter=lfs diff=lfs merge=lfs -text
+galactic_ns_mass_prior_common_eos_20hz_lowfreq_posteriors_long_chain.hdf filter=lfs diff=lfs merge=lfs -text
